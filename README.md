@@ -1,6 +1,6 @@
 # GST Invoice Generator – cognisutra
 
-**Live demo:** [cognisutra.in/gst-invoice-generator](https://cognisutra.in/gst-invoice-generator)
+**Live demo:** [gst-invoice-generator](https://gstinvoicegenerator-one.vercel.app/)
 
 A professional, 100% client-side GST invoice generator. No registration, no backend – all data stays in your browser. Perfect for freelancers, small businesses, and startups.
 
@@ -32,7 +32,4 @@ A professional, 100% client-side GST invoice generator. No registration, no back
 
 - HTML5 / CSS3 (flex, grid, custom properties)
 - Vanilla JavaScript (no frameworks)
-- [QRCode.js](https://github.com/davidshimjs/qrcodejs) – UPI QR generation
 - Google Fonts (Inter, Playfair Display, JetBrains Mono)
-
-## 📁 File structure
